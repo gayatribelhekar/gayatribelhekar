@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gayatri Belhekar
-- 👀 I’m an aspiring software developer
+- I’m an aspiring Software Developer
 
 <!---
 gayatribelhekar/gayatribelhekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
